@@ -1,3 +1,2 @@
 # webdevbootcamp
-all work for webdev
-This is a test 
+This repository contains all the work I did throughout my time in the web development bootcamp. Through this bootcamp I learned elementary fullstack development, and how to create a functional react front end easily.
